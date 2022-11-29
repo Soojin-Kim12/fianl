@@ -1,0 +1,21 @@
+project:
+  type: book
+
+book:
+  title: "편의점 브랜드 GS25: 평판 관리 방향 제안"
+  author: "언론홍보학과 김수진(2018102101)"
+  date: "2022. 11. 28. "
+  chapters:
+          - 5th_data.qmd
+          - 8th_data.qmd
+          - 9th_data.qmd
+          - index.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: true
+
